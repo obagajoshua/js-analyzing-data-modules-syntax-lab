@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^30.5.2"
   },
   "dependencies": {
     "datejs": "^1.0.0-rc3"
